@@ -1,0 +1,3 @@
+[submodule "python/ekf"]
+	path = python/ekf
+	url = git@github.com:jpsnir/ekf.git
